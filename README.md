@@ -17,6 +17,6 @@ HTML, CSS und Vanilla JavaScript im Frontend; PHP 8.1+, PDO MySQL und MySQL/Mari
 
 ## Selbst hosten
 
-Die **vollständige Schritt-für-Schritt-Anleitung** steht in [INSTALLATION.md](INSTALLATION.md). Die leere Datenbank wird mit `schema.sql` angelegt. Eigene Zugangsdaten gehören ausschließlich in `private/config.php` außerhalb des Webverzeichnisses.
+Die **vollständige Schritt-für-Schritt-Anleitung** steht in [INSTALLATION.md](https://github.com/TueftelTyp/TPRadar/blob/main/tp-radar-selfhost-v5.0.1/README.md). Die leere Datenbank wird mit `schema.sql` angelegt. Eigene Zugangsdaten gehören ausschließlich in `private/config.php` außerhalb des Webverzeichnisses.
 
 **Hinweis:** Bei diesem Projekt handelt es sich um eine Community-Anwendung; Preise werden von Nutzern gemeldet und sind nicht garantiert korrekt oder aktuell. Ein Live-Sicherheitstest auf jeder Hosting-Plattform ist nicht enthalten.
