@@ -8,7 +8,7 @@
 - Produkt- und Preismeldungen ohne Registrierung, optional mit Barcode-Erkennung
 - Preisverlauf, Vergleichsansichten und Community-Bestätigungen
 - Konfigurierbare Plausibilitätsprüfung für neue Preise
-- Geschützter Adminbereich unter `/adm/` für Produkte, Geschäfte, Preise und Protokolle
+- Geschützter Adminbereich für Produkte, Geschäfte, Preise und Protokolle
 - Administrator-Anmeldung mit Passwort und zeitbasiertem Einmalcode (TOTP)
 
 ## Technik
